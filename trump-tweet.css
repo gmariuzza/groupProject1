@@ -1,0 +1,15 @@
+#headerimg {
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+h2 {
+	font-family: "Times";
+}
+
+#quoteTwo {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding-right: 1em;
+}
