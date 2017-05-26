@@ -4,7 +4,8 @@
 }
 
 h2 {
-	font-family: "Times";
+	font-family: 'Coustard', serif;
+	font-size: 4em;
 }
 
 #quoteTwo {
@@ -12,4 +13,16 @@ h2 {
 	bottom: 0;
 	right: 0;
 	padding-right: 1em;
+}
+
+#bottomBox {
+	text-align: center;
+}
+
+button {
+	margin: 1em;
+}
+
+#img {
+	width: 100%;
 }
